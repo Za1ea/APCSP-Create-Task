@@ -1,7 +1,7 @@
 # APCSP-Create-Task
 
 Requirements:
-* gets input from user
+* gets input from user or file
 * algorithm that includes sequencing, selection, and iteration
-* helper function
-* has list or dictionary
+* at least one function (procedure) where the name, return type (if necessary), and one or more parameters are defined
+* has list or other collection type (ex: dictionary)
